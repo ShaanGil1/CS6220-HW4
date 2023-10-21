@@ -1,4 +1,4 @@
-# HW3 CS6220
+# HW4 CS6220
 # Installation
 - Install conda from: https://www.anaconda.com/ <br>
 - Extract all files into a folder <br>
